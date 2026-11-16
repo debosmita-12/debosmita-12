@@ -178,6 +178,9 @@ A full-stack alumni networking platform designed to connect students and alumni 
 
 **Stack:** MongoDB, Express.js, React.js, Node.js.
 
+[View Repository](https://github.com/debosmita-12/Alumni-Nexus)
+
+
 ### 06. ARGO
 **Deep Learning for Post-Ischemic Ventricular Tachycardia**
 
