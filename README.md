@@ -250,17 +250,18 @@ My current research interests focus on applying deep learning and generative mod
 
 ---
 
+
 ## 08 / GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=debosmita-12&show_icons=true&hide_border=true&bg_color=071A1F&title_color=58C4B8&text_color=C6D8D5&icon_color=58C4B8" alt="GitHub statistics"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=debosmita-12&show_icons=true&hide_border=true&bg_color=071A1F&title_color=58C4B8&text_color=C6D8D5&icon_color=58C4B8" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debosmita-12&layout=compact&hide_border=true&bg_color=071A1F&title_color=58C4B8&text_color=C6D8D5" alt="Most used languages"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=debosmita-12&layout=compact&hide_border=true&bg_color=071A1F&title_color=58C4B8&text_color=C6D8D5" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=debosmita-12&hide_border=true&background=071A1F&ring=58C4B8&fire=58C4B8&currStreakLabel=58C4B8&sideLabels=C6D8D5&dates=8CA6A2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=debosmita-12&hide_border=true&background=071A1F&ring=58C4B8&fire=58C4B8&currStreakLabel=58C4B8&sideLabels=C6D8D5&dates=8CA6A2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
 
 </div>
 
